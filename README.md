@@ -1,1 +1,2 @@
 # ampneuro
+This is a quick website advertising the Amplifying Neuroscience Symposium at UC San Diego, Friday, May 8th. View the website [here](ahwillia.github.io/ampneuro). Also check out [@AmpNeuro](https://twitter.com/AmpNeuro) on twitter. Let us know your coming by registering [here](https://www.eventbrite.com/e/amplifying-neuroscience-tickets-3986983174).
